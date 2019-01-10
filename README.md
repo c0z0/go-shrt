@@ -1,4 +1,5 @@
-# Go SHRT
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/zpnk/hello-world)
+# [Go SHRT](https://gs.cserdean.me)
 
 Simple URL shortener api written in Golang
 
