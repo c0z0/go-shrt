@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "name": "go-shrt",
+  "alias": "gs.cserdean.me",
+  "env": {
+    "MONGO_URI": "@shrt_uri"
+  }
+}

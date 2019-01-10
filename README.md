@@ -1,4 +1,4 @@
-# SHRT Go
+# Go SHRT
 
 Simple URL shortener api written in Golang
 
